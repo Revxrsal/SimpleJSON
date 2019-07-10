@@ -1,6 +1,6 @@
 # Notice
 This repository has been officially moved to https://github.com/moltenjson/MoltenJSON and hence been deprecated in favor of it. This repository will no longer be receiving updates and will be archived.
-#######
+------
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![](https://jitpack.io/v/ReflxctionDev/SimpleJSON.svg)](https://jitpack.io/#ReflxctionDev/SimpleJSON)
